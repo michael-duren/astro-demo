@@ -1,8 +1,6 @@
 ---
-layout: ../layouts/page.astro
+layout: ../layouts/default.astro
 ---
-
-export const prerender = true;
 
 # About sndwch
 
